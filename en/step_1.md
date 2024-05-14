@@ -14,25 +14,15 @@ title: What you will need
 ### Software
 
 + Raspberry Pi OS Bookworm (64-bit)
++ Web browser, on the computer you are connecting from
 
 --- /collapse ---
 
---- collapse ---
----
-title: What you will learn
----
+## Do something 
+--- task ---
 
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
+Step content...
 
---- /collapse ---
+--- /task ---
 
---- collapse ---
----
-title: Additional information for educators
----
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/raspberry-pi-connect/print){:target="_blank"}.
-
---- /collapse ---
