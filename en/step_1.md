@@ -18,10 +18,31 @@ title: What you will need
 
 --- /collapse ---
 
-## Do something 
+## Set up a Raspberry Pi ID
 --- task ---
 
-Step content...
+In a web browser, visit [https://id.raspberrypi.com/sign-up](https://id.raspberrypi.com/sign-up) and fill in the form to register for a Raspberry Pi ID.
+
+**Note:** A Raspberry Pi ID is an account on raspberrypi.com, which is separate to an account you may already have on this site, raspberrypi.org 
+
+--- /task ---
+
+## Install Raspberry Pi connect
+--- task ---
+
+On your Raspberry Pi, open a terminal
+
+--- code ---
+---
+language: bash
+line_numbers: false
+---
+sudo apt update
+sudo apt upgrade
+sudo apt install rpi-connect
+
+
+--- /code ---
 
 --- /task ---
 
