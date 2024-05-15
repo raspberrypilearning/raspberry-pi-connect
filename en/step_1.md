@@ -82,7 +82,7 @@ You will be redirected to a web page where you can sign in with your Raspberry P
 
 Type in a name for your device and then click the "Create device and sign in" button. 
 
-![Name your new device](images/name_device.png)
+![Name your new device](images/name_your_device.png)
 
 --- /task ---
 
