@@ -65,18 +65,29 @@ sudo reboot
 Once your Raspberry Pi has rebooted, you will see a new icon on the desktop for Raspberry Pi connect.
 
 --- task ---
-Click on the icon and select "Sign in".
+Click on the icon and select "Sign in". 
 
-![Raspberry Pi connect icon](/images/rpiconnect_icon.jpg)
+![Raspberry Pi connect icon](images/pi_connect_icon.png)
 
 --- /task ---
 
 --- task ---
-Sign in with your Raspberry Pi ID.
+You will be redirected to a web page where you can sign in with your Raspberry Pi ID. 
 
-![Sign in to Raspberry Pi connect](/images/sign_in.jpg)
+![Sign in to Raspberry Pi connect](images/sign_in.png)
 
 --- /task ---
+
+--- task ---
+
+Type in a name for your device and then click the "Create device and sign in" button. 
+
+![Name your new device](images/name_device.png)
+
+--- /task ---
+
+
+Your Raspberry Pi is now registered with your Raspberry Pi ID and you can disconnect the screen. 
 
 ## Access your Raspberry Pi remotely
 
@@ -84,7 +95,7 @@ Now that your Raspberry Pi is registered with your Raspberry Pi connect account,
 
 --- task ---
 
-Open a browser window and visit [https://connect.raspberrypi.com](https://connect.raspberrypi.com).
+Open a browser window on another device and visit [https://connect.raspberrypi.com](https://connect.raspberrypi.com)
 
 Log in with your Raspberry Pi account.
 
@@ -94,7 +105,7 @@ Log in with your Raspberry Pi account.
 
 Find your Raspberry Pi in the list and click the "Connect" button
 
-![Connect to the Raspberry Pi](/images/connect.jpg)
+![Connect to the Raspberry Pi](images/select_pi.png)
 
 If you connect more than one Raspberry Pi in this way, you will see each machine in the list and can choose which one to connect to. 
 
@@ -102,4 +113,4 @@ If you connect more than one Raspberry Pi in this way, you will see each machine
 
 A new window will appear, and after you have been connected you will see your Raspberry Pi's desktop. You can now use the Raspberry Pi as normal, via the browser.
 
-![Use the Raspberry Pi via screen share](/images/sign_in.jpg)
+![Use the Raspberry Pi via screen share](images/use_remotely.png)
