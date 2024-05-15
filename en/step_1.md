@@ -67,14 +67,10 @@ Once your Raspberry Pi has rebooted, you will see a new icon on the desktop for 
 --- task ---
 Click on the icon and select "Sign in". 
 
-![Raspberry Pi connect icon](images/pi_connect_icon.png)
+![Sign in to Raspberry Pi connect](images/sign_in.png)
 
---- /task ---
-
---- task ---
 You will be redirected to a web page where you can sign in with your Raspberry Pi ID. 
 
-![Sign in to Raspberry Pi connect](images/sign_in.png)
 
 --- /task ---
 
