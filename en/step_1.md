@@ -8,11 +8,11 @@ title: What you will need
 ---
 ### Hardware
 
-+ Raspberry Pi 5, Raspberry Pi 4 or Raspberry Pi 400 computer
++ Raspberry Pi 5, Raspberry Pi 4, or Raspberry Pi 400 computer
 + Monitor
-+ Keyboard 
++ Keyboard
 + Mouse
-+ Another computer you wish to connect to your Raspberry Pi from
++ Another computer so you can connect to your Raspberry Pi
 
 ### Software
 
@@ -26,14 +26,14 @@ title: What you will need
 
 In a web browser on any computer, visit [https://id.raspberrypi.com/sign-up](https://id.raspberrypi.com/sign-up) and fill in the form to register for a Raspberry Pi ID.
 
-**Note:** A Raspberry Pi ID is an account on raspberrypi.com, which is separate to an account you may already have on this site, raspberrypi.org 
+**Note:** A Raspberry Pi ID is an account on raspberrypi.com, which is separate to any account you may already have on this site, raspberrypi.org 
 
 --- /task ---
 
 ## Install Raspberry Pi Connect
 --- task ---
 
-With your Raspberry Pi connected to a monitor, keyboard and mouse, open a terminal. Type in each of the the commands below, one by one, to install the latest version of Raspberry Pi Connect. 
+With your Raspberry Pi connected to a monitor, keyboard, and mouse, open a terminal. Type in each of the the commands below, one by one, to install the latest version of Raspberry Pi Connect. 
 
 --- code ---
 ---
@@ -62,14 +62,14 @@ sudo reboot
 --- /task ---
 
 ## Link your Raspberry Pi to your Raspberry Pi ID
-Once your Raspberry Pi has rebooted, you will see a new icon on the desktop for Raspberry Pi connect.
+Once your Raspberry Pi has rebooted, you will see a new icon on the desktop for Raspberry Pi Connect.
 
 --- task ---
 Click on the icon and select "Sign in". 
 
 ![Sign in to Raspberry Pi connect](images/sign_in.png)
 
-You will be redirected to a web page where you can sign in with your Raspberry Pi ID. 
+You will be redirected to a webpage where you can sign in with your Raspberry Pi ID. 
 
 
 --- /task ---
@@ -87,11 +87,11 @@ Your Raspberry Pi is now registered with your Raspberry Pi ID and you can discon
 
 ## Access your Raspberry Pi remotely
 
-Now that your Raspberry Pi is registered with your Raspberry Pi connect account, you can use a browser to access it from anywhere. 
+Now that your Raspberry Pi is registered with your Raspberry Pi Connect account, you can use a browser to access it from anywhere. 
 
 --- task ---
 
-Open a browser window on another device and visit [https://connect.raspberrypi.com](https://connect.raspberrypi.com)
+Open a browser window on another device and visit [https://connect.raspberrypi.com](https://connect.raspberrypi.com).
 
 Log in with your Raspberry Pi account.
 
@@ -99,7 +99,7 @@ Log in with your Raspberry Pi account.
 
 --- task ---
 
-Find your Raspberry Pi in the list and click the "Connect" button
+Find your Raspberry Pi in the list and click the "Connect" button.
 
 ![Connect to the Raspberry Pi](images/select_pi.png)
 
@@ -107,6 +107,6 @@ If you connect more than one Raspberry Pi in this way, you will see each machine
 
 --- /task ---
 
-A new window will appear, and after you have been connected you will see your Raspberry Pi's desktop. You can now use the Raspberry Pi as normal, via the browser.
+A new window will appear, and after you have been connected, you will see your Raspberry Pi's desktop. You can now use the Raspberry Pi as normal, via the browser.
 
 ![Use the Raspberry Pi via screen share](images/use_remotely.png)
