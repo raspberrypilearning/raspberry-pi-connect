@@ -33,7 +33,7 @@ In a web browser on any computer, visit [https://id.raspberrypi.com/sign-up](htt
 ## Install Raspberry Pi Connect
 --- task ---
 
-With your Raspberry Pi connected to a monitor, keyboard, and mouse, open a terminal. Type in each of the the commands below, one by one, to install the latest version of Raspberry Pi Connect. 
+Make sure your Raspberry Pi is connected to a monitor, keyboard, and mouse. Open a terminal and type in each of the commands below, one by one, to install the latest version of Raspberry Pi Connect. 
 
 --- code ---
 ---
@@ -65,7 +65,7 @@ sudo reboot
 Once your Raspberry Pi has rebooted, you will see a new icon on the desktop for Raspberry Pi Connect.
 
 --- task ---
-Click on the icon and select "Sign in". 
+Click on the icon and select **Sign in**. 
 
 ![Sign in to Raspberry Pi connect](images/sign_in.png)
 
@@ -76,7 +76,7 @@ You will be redirected to a webpage where you can sign in with your Raspberry Pi
 
 --- task ---
 
-Type in a name for your device and then click the "Create device and sign in" button. 
+Type in a name for your device and then click the **Create device and sign in** button. 
 
 ![Name your new device](images/name_your_device.png)
 
@@ -99,7 +99,7 @@ Log in with your Raspberry Pi account.
 
 --- task ---
 
-Find your Raspberry Pi in the list and click the "Connect" button.
+Find your Raspberry Pi in the list and click the **Connect** button.
 
 ![Connect to the Raspberry Pi](images/select_pi.png)
 
