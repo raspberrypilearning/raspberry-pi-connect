@@ -1,6 +1,7 @@
 # Using Raspberry Pi Connect
+=======
 
-![default-project-template](banner.png)
+![Using Raspberry Pi Connect](banner.png)
 
 Find the project online at [projects.raspberrypi.org/en/projects/default-project-template](https://projects.raspberrypi.org/en/projects/raspberry-pi-connect)
 
