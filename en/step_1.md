@@ -93,7 +93,7 @@ Now that your Raspberry Pi is registered with your Raspberry Pi Connect account,
 
 Open a browser window on another device and visit [https://connect.raspberrypi.com](https://connect.raspberrypi.com).
 
-Log in with your Raspberry Pi Connect account.
+Log in with your Raspberry Pi account.
 
 --- /task ---
 
