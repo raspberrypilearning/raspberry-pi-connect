@@ -1,9 +1,9 @@
 title: Using Raspberry Pi Connect
 hero_image: images/banner.png
 description: Access your Raspberry Pi computers remotely from anywhere in the world
-version: 4
-listed: false
-copyedit: false
-last_tested: "2022-05-19"
+version: 1
+listed: true
+copyedit: true
+last_tested: "2024-06-01"
 steps:
   - title: Introduction
