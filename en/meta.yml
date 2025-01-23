@@ -6,6 +6,6 @@ listed: true
 copyedit: true
 last_tested: "2024-06-01"
 steps:
-  - title: Introduction
+- title: Introduction
   completion:
   - internal
